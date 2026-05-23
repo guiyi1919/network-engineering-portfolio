@@ -25,13 +25,11 @@
 
 ## 📂 文件夹结构
 net-eng-practice/
--├── vlan-trunk/ # VLAN与Trunk练习
--├── dhcp/ # DHCP实验
-├── ospf/ # OSPF路由协议
-├── vrrp/ # 网关冗余实验
-├── bgp/ # 边界网关协议
-└── misc/ # 零散小实验与排错记录
-
-text
+├── vlan-trunk/ # VLAN 与 Trunk 配置练习
+├── dhcp/ # DHCP 服务搭建与地址池实验
+├── ospf/ # OSPF 路由协议（单区域 / 多区域）
+├── vrrp/ # VRRP 网关冗余与主备切换
+├── bgp/ # BGP 骨干网与 EBGP/IBGP 邻居
+└── misc/ # 零散排错、工具脚本与小实验
 
 *持续更新中...*
