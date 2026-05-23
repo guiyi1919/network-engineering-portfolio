@@ -24,3 +24,19 @@
 > *（每周更新）*
 
 ## 📂 文件夹结构
+
+<details open>
+  <summary>📂 完整目录结构</summary>
+  
+  - net-eng-practice/
+    - 01-VLAN基础实验/
+      - README.md
+    - 02-Trunk中继链路/
+    - 03-DHCP配置实验/
+    - 04-静态路由/
+    - 05-OSPF路由协议/
+    - 06-VRRP冗余网关/
+    - 07-ACL访问控制/
+    - README.md
+</details>
+
