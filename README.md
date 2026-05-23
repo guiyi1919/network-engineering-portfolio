@@ -5,8 +5,6 @@
 **系统化项目作品集**：[network-engineering-portfolio](https://github.com/guiyi1919/network-engineering-portfolio)
 
 ## 📋 学习规划
-- **视频课程**：[2026最新版网络工程师教程](https://www.bilibili.com/video/BV1TQwezYEu6)
-- **证书路线**：HCIA-Datacom → HCIP-Datacom → 软考-网络工程师
 - **进阶方向**：SDN、VXLAN、网络自动化（Python + Netmiko）
 
 ## 🗂️ 练习目录
