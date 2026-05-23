@@ -1,35 +1,26 @@
-# 网络工程练习日志
+# SpookyPan的网络工程作品集
 
-## 👤 关于本仓库
-这里是个人学习网络工程技术的日常练习存档，记录了从理论到实践的完整过程。  
-**系统化项目作品集**：[network-engineering-portfolio](https://github.com/guiyi1919/network-engineering-portfolio)
+## 👤 关于我
+计算机专业毕业，**网络工程方向**。具备扎实的网络基础与独立排障能力，熟悉路由器/交换机配置、Linux系统操作及虚拟化环境搭建。目前专注于**网络技术**，持续积累从理论到实战的完整经验。
 
-## 📋 学习规划
-- **进阶方向**：SDN、VXLAN、网络自动化（Python + Netmiko）
+## 🛠️ 核心技能
+- **网络技术**：VLAN、Trunk、STP、静态路由、OSPF、DHCP、ACL、NAT
+- **工具平台**：eNSP（网络模拟）、Wireshark（抓包分析）、VMware（虚拟化）
+- **系统操作**：Linux基础运维（CentOS/Ubuntu）、Windows Server基础管理
+- **自动化**：Python脚本（网络设备配置备份、批量Ping测试）
 
-## 🗂️ 练习目录
-| 技术主题 | 完成状态 | 笔记链接 | 说明 |
-|:---|:---|:---|:---|
-| IP地址与子网划分 | ✅ 已完成 | [子网划分练习](待更新) | 基础IP规划与VLSM计算 |
-| VLAN与Trunk配置 | ✅ 已完成 | [VLAN实验](待更新) | Access/Trunk/Hybrid端口练习 |
-| DHCP服务搭建 | 🔄 进行中 | [DHCP实验](待更新) | 基于接口/全局地址池 |
-| OSPF邻居建立 | 🔄 进行中 | [OSPF实验](待更新) | DR/BDR选举、区域配置 |
-| VRRP高可用性 | 📅 待开始 | [VRRP实验](待更新) | 主备网关、抢占延迟 |
-| BGP骨干网互联 | 📅 待开始 | [BGP实验](待更新) | EBGP/IBGP邻居建立 |
+## 📂 项目与实验
+| 项目 | 描述 | 涉及技术 |
+|:---|:---|:---|
+| [企业网络综合实验](待更新) | 模拟中型企业网络，实现VLAN隔离、跨网段互通及互联网接入 | VLAN、Trunk、OSPF、NAT、ACL |
+| [Wireshark抓包排障实战](待更新) | 对DHCP故障、TCP重传等问题进行抓包分析与排错记录 | Wireshark、DHCP、TCP/IP |
+| [Linux服务器运维实操](待更新) | 在VMware中搭建Linux环境，配置NTP、DNS等基础服务 | Linux、VMware、NTP、DNS |
 
-## 📝 学习周记
+## 📝 技术笔记
+- [网络工程师面试题整理——基础篇](待更新)
+- [Wireshark抓包过滤语法速查表](待更新)
+- [eNSP安装与Win11兼容性排坑指南](待更新)
 
-> **2026.05 - 第1周**：完成子网划分与VLAN基础实验。  
-> **2026.05 - 第2周**：搭建OSPF多区域拓扑，邻居建立成功。  
-> *（每周更新，记录成长轨迹）*
-
-## 📂 文件夹结构
-net-eng-practice/
-├── vlan-trunk/ # VLAN 与 Trunk 配置练习
-├── dhcp/ # DHCP 服务搭建与地址池实验
-├── ospf/ # OSPF 路由协议（单区域 / 多区域）
-├── vrrp/ # VRRP 网关冗余与主备切换
-├── bgp/ # BGP 骨干网与 EBGP/IBGP 邻居
-└── misc/ # 零散排错、工具脚本与小实验
-
-*持续更新中...*
+## 📫 联系我
+- 邮箱：PS191919@163.com
+- 本仓库将持续更新，记录我的学习与实战过程，欢迎交流指正。
