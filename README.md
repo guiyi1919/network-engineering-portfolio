@@ -25,8 +25,8 @@
 
 ## 📂 文件夹结构
 net-eng-practice/
-├── vlan-trunk/ # VLAN与Trunk练习
-├── dhcp/ # DHCP实验
+-├── vlan-trunk/ # VLAN与Trunk练习
+-├── dhcp/ # DHCP实验
 ├── ospf/ # OSPF路由协议
 ├── vrrp/ # 网关冗余实验
 ├── bgp/ # 边界网关协议
