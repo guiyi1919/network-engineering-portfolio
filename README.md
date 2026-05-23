@@ -2,7 +2,7 @@
 
 ## 👤 关于本仓库
 这里是个人学习网络工程技术的日常练习存档，记录了从理论到实践的完整过程。  
-**系统化项目作品集**：[network-engineering-portfolio](https://github.com/你的用户名/network-engineering-portfolio)
+**系统化项目作品集**：[network-engineering-portfolio](https://github.com/guiyi1919/network-engineering-portfolio)
 
 ## 📋 学习规划
 - **视频课程**：[2026最新版网络工程师教程](https://www.bilibili.com/video/BV1TQwezYEu6)
